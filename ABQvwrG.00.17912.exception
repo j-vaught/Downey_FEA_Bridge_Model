@@ -1,0 +1,30 @@
+<Description>
+   ABQvwrG.exe / rank 0 / thread 0  encountered an unhandled exception
+
+
+</Description>
+
+<Context>
+   UNKNOWN
+</Context>
+
+<Callstack>
+</Callstack>
+
+<Memory>
+   <Current>              73 MB </Current>
+   <Resident>            123 MB </Resident>
+   <Physical>          15680 MB </Physical>
+   <Limit>                 0 MB </Limit>
+   <Accessible>        15680 MB </Accessible>
+   <Allocator>            DL    </Allocator>
+</Memory>
+
+<Directories>
+  <current> C:\temp\Bridge Model           </current> 
+     <temp> C:\Users\Jacob\AppData\Local\Temp </temp>
+</Directories>
+
+<Installation>
+</Installation>
+

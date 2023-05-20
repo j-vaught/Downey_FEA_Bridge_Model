@@ -1,0 +1,29 @@
+<Description>
+   ABAQUS/ABQvwrK rank 0 received the ABORT signal
+
+</Description>
+
+<Context>
+   UNKNOWN
+</Context>
+
+<Callstack>
+</Callstack>
+
+<Memory>
+   <Current>             114 MB </Current>
+   <Resident>            118 MB </Resident>
+   <Physical>          15680 MB </Physical>
+   <Limit>                 0 MB </Limit>
+   <Accessible>        15680 MB </Accessible>
+   <Allocator>            DL    </Allocator>
+</Memory>
+
+<Directories>
+  <current> C:\temp\Bridge Model           </current> 
+     <temp> C:\Users\Jacob\AppData\Local\Temp </temp>
+</Directories>
+
+<Installation>
+</Installation>
+

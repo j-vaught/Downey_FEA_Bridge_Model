@@ -1,0 +1,23 @@
+<Description>
+     ABQvwrG.exe / rank 0 / thread 0  encountered an unhandled exception
+
+
+</Description>
+
+<Callstack>
+KERNELBASE.dll                 RaiseException                
+VCRUNTIME140.dll               CxxThrowException             
+ABQSMAAbuGeom.dll              nex_CmdException<atr_String,2>::Propagate
+ABQSMAPybPyoModule.dll         pyo_ExceptionBinding::ThrowAbaqusException
+ABQSMAInbVwrPyUtils.dll        pyt_InterpreterRole::RaiseLastException
+ABQSMAInbVwrPyUtils.dll        pyt_InterpreterRole::RunCommand
+ABQSMAIngFoxAbq.dll            AFXApp::create                
+ABQSMAIngVwrGui.dll            gui_Actor::initialize         
+ABQSMAIngFoxAbq.dll            AFXApp::create                
+ABQvwrG.exe                   ???
+ABQvwrG.exe                   ???
+ABQvwrG.exe                   ???
+KERNEL32.DLL                   BaseThreadInitThunk           
+ntdll.dll                      RtlUserThreadStart            
+</Callstack>
+
